@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Clicker+Script&family=Coiny&family=Montserrat:wght@300;400;700&family=Poppins:wght@400;700&family=Rock+Salt&display=swap');
+
+* {
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#certificate {
+  background-color: #e2edff;
+}
+
+footer {
+  padding-bottom: 6rem;
+}
